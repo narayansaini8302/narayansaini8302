@@ -1,4 +1,5 @@
-
+# 💫 Hi 👋, I'm Narayan Mali
+**A passionate MERN Stack Engineer || DevOps Engineer  || Full Stack Engineer**
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/inarayanmali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narayansaini8302) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:narayansaini8302@gmail.com) 
 
